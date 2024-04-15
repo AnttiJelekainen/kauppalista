@@ -1,0 +1,2 @@
+# kauppalista
+harjoitellaan svelten käyttöä
